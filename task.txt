@@ -5,6 +5,7 @@ Public routes:
 /book/id [GET] => Read single book
 
 Authenticated routes:
+d
 /book [POST] => Create book
 /book/id [PUT] => Update book
 /book/id [DELETE] => Delete book
