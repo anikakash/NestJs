@@ -1,0 +1,10 @@
+Public routes:
+/registration [POST] => Create an user
+/login [POST] => Login an user and response JWT token
+/books [GET] => Get lists of all books
+/book/id [GET] => Read single book
+
+Authenticated routes:
+/book [POST] => Create book
+/book/id [PUT] => Update book
+/book/id [DELETE] => Delete book
